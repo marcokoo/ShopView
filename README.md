@@ -1,11 +1,15 @@
-# Shop View
-view shop android app with kotlin and firebase
+# Shop Viewer
+Shop Viewer android app example with Kotlin and Firebase for android newbie
 
 
 ## Functions
 * GPS
-* Firebase Realtime Database
-
+* ViewPager
+* [Firebase Realtime Database](https://firebase.google.com/docs/database/)
+* [Firebase UI (FirebaseRecyclerView)](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
+* [GeoFire](https://github.com/firebase/geofire-java)
+* Sort list by distance
+* Address Translation
 
 
 ## Contribution
