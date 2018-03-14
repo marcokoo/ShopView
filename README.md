@@ -1,6 +1,6 @@
 I'm sorry. I'm editing this repository.
 
-# Shop Viewer Demo
+# Shop Viewer
 Shop Viewer android app example with Kotlin and Firebase for android newbie
 
 
