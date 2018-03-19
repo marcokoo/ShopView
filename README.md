@@ -19,5 +19,6 @@ Shop Viewer android app example with Kotlin and Firebase for android newbie
 ## Contribution
 I love contribution. I don't think this app and code are perfect. I need your help.
 ```html
-
+1. add issue tracker or send marcokoo19@gmail.com
+2. clone
 ```
