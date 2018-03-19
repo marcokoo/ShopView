@@ -1,7 +1,7 @@
 I'm sorry. I'm editing this repository.
 
 # Shop Viewer
-Shop Viewer android app example with Kotlin and Firebase for android newbie
+Shop Viewer android app example with Kotlin and Firebase
 
 
 ## Functions
@@ -21,4 +21,5 @@ I love contribution. I don't think this app and code are perfect. I need your he
 ```html
 1. add issue tracker or send marcokoo19@gmail.com
 2. clone
+3. commit
 ```
