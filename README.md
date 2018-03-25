@@ -14,6 +14,8 @@ Shop View android app example with Kotlin and Firebase
 * [Firebase UI (FirebaseRecyclerView)](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
 * Button click animation
 * CardView
+* [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
+* Android Extension - inflate
 
 
 ## Contribution
