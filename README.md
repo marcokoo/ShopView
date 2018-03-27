@@ -6,7 +6,7 @@ Shop View android app example with Kotlin and Firebase
 
 ## Functions
 * GPS
-* Address Translation by android language
+* Address Translation by android language(Reverse Geocoding)
 * [GeoFire](https://github.com/firebase/geofire-java)
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/)
