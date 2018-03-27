@@ -4,16 +4,17 @@ I'm sorry. I'm editing this repository.
 Shop View android app example with Kotlin and Firebase
 
 
-## Functions
-* GPS - get current location (Google Maps API)
-* Address Translation by android language (Google Maps Reverse Geocoding API)
-* [GeoFire](https://github.com/firebase/geofire-java)
+## Features used in app
+* Google Maps API - get current location(GPS)
+* Google Maps Reverse Geocoding API - Address Translation to android set language
+* [GeoFire](https://github.com/firebase/geofire-java) - write geographic data to realtime database
 * Sort list by distance
-* [Firebase Realtime Database](https://firebase.google.com/docs/database/)
+* [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
 ---
 * ViewPager
-* [Firebase UI (FirebaseRecyclerView)](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
-* Button click animation
+* [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
+* Button click animation - scale
+* Activity transition animation - slide
 * CardView
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
