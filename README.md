@@ -36,6 +36,7 @@ Shop View android guide app with Kotlin and Firebase
 * Android Extension - inflate
 
 <h4>DeviceInfo Methods</h4> 
+
 |Value|functionName|returns
 |---|---|---|
  Android ID      | `getAndroidID()` | String |
