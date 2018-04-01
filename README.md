@@ -10,6 +10,7 @@ Shop View android app example with Kotlin and Firebase
 * [GeoFire](https://github.com/firebase/geofire-java) - write geographic data to realtime database
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
+* AdMob(on-going)
 ---
 * ViewPager
 * [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
