@@ -1,7 +1,7 @@
 I'm sorry. I'm editing this repository.
 
 # Shop View
-Shop View android app example with Kotlin and Firebase
+Shop View android guide app with Kotlin and Firebase
 
 
 ## Features used in app
