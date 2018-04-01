@@ -40,6 +40,8 @@ Shop View android guide app with Kotlin and Firebase
 |---|---|---|
  Android ID      | `getAndroidID()` | String |
 | Device Model     | `getModel()` | String |
+ Android ID      | `getAndroidID()` | String |
+| Device Model     | `getModel()` | String |
 
 ## Download
 [URL]
