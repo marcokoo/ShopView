@@ -5,7 +5,7 @@ Shop View android app example with Kotlin and Firebase
 
 
 ## Features used in app
-* Google Maps API - get current location(GPS)
+* Google Maps API - get current location(GPS) //NearMeActivty.java(130-140)
 * Google Maps Reverse Geocoding API - Address Translation to android set language
 * [GeoFire](https://github.com/firebase/geofire-java) - write geographic data to realtime database
 * Sort list by distance
