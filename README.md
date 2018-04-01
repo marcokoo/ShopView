@@ -39,7 +39,7 @@ Shop View android guide app with Kotlin and Firebase
 
 |Feature|functionName|location
 |---|---|---|
- Google Maps API      | `getAndroidID()` | ui/NearMeActivity.kt 130-140 |
+ Google Maps API      | `getAndroidID()` | ui/NearMeActivity.kt: 130-140 |
 | Device Model     | `getModel()` | String |
 | Manufacturer      | `getManufacturer()` | String |
 | Product      | `getProduct()` | String |
