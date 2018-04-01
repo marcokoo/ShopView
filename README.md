@@ -12,7 +12,7 @@ Shop View android guide app with Kotlin and Firebase
 
 ## Features used in app
 
-[Back-end]
+<h4>[Back-end]</h4>
 * Google Maps API - get current location(GPS) #ui/NearMeActivty.kt(130-140)
 
 [GIF SNAP VIDEO]
@@ -27,7 +27,7 @@ Shop View android guide app with Kotlin and Firebase
 * (Firebase Auth)
 * (Firebase Analytics)
 
-[UI]
+<h4>[UI]</h4>
 * ViewPager
 * [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
 * Button click animation - scale
@@ -35,6 +35,8 @@ Shop View android guide app with Kotlin and Firebase
 * CardView
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
+
+
 
 <h4>Code Index</h4> 
 
