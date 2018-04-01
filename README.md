@@ -13,7 +13,7 @@ Shop View android guide app with Kotlin and Firebase
 ## Features used in app
 -index 
 
-* Google Maps API - get current location(GPS) #ui/NearMeActivty.java(130-140)
+* Google Maps API - get current location(GPS) #ui/NearMeActivty.kt(130-140)
 
 [GIF SNAP VIDEO]
 
@@ -35,11 +35,11 @@ Shop View android guide app with Kotlin and Firebase
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
 
-<h4>DeviceInfo Methods</h4> 
+<h4>Code Index</h4> 
 
 |Value|functionName|returns
 |---|---|---|
- Android ID      | `getAndroidID()` | String |
+ Google Maps API      | `getAndroidID()` | ui/NearMeActivity.kt 130-140 |
 | Device Model     | `getModel()` | String |
 | Manufacturer      | `getManufacturer()` | String |
 | Product      | `getProduct()` | String |
