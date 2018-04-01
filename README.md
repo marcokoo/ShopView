@@ -12,6 +12,7 @@ Shop View android guide app with Kotlin and Firebase
 * [GeoFire](https://github.com/firebase/geofire-java) - write geographic data to realtime database
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
+* (Modify current location)
 * (In-app purchase)
 * (Firebase AdMob)
 * (Firebase Auth)
