@@ -15,6 +15,7 @@ Shop View android guide app with Kotlin and Firebase
 * (In-app purchase)
 * (Firebase AdMob)
 * (Firebase Auth)
+* (Firebase Analytics)
 ---
 * ViewPager
 * [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
