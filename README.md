@@ -35,13 +35,18 @@ Shop View android guide app with Kotlin and Firebase
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
 
-
+<h4>DeviceInfo Methods</h4> 
 |Value|functionName|returns
 |---|---|---|
  Android ID      | `getAndroidID()` | String |
 | Device Model     | `getModel()` | String |
- Android ID      | `getAndroidID()` | String |
-| Device Model     | `getModel()` | String |
+| Manufacturer      | `getManufacturer()` | String |
+| Product      | `getProduct()` | String |
+| Fingerprint      | `getFingerprint()` | String |
+| Hardware      | `getHardware()` | String |
+| Radio Version      | `getRadioVer()` | String |
+| Device      | `getDevice()` | String |
+| Board      | `getBoard()` | String |
 
 ## Download
 [URL]
