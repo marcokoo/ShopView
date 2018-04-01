@@ -28,6 +28,7 @@ Shop View android guide app with Kotlin and Firebase
 * (Firebase Analytics)
 
 <h4>[UI]</h4>
+
 * ViewPager
 * [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
 * Button click animation - scale
