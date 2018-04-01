@@ -13,6 +13,7 @@ Shop View android guide app with Kotlin and Firebase
 ## Features used in app
 
 <h4>[Back-end]</h4>
+
 * Google Maps API - get current location(GPS) #ui/NearMeActivty.kt(130-140)
 
 [GIF SNAP VIDEO]
