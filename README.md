@@ -14,12 +14,11 @@ Shop View android guide app with Kotlin and Firebase
 
 <h4>[Back-end]</h4>
 
-* Google Maps API - get current location(GPS) #ui/NearMeActivty.kt(130-140)
+* LocationListener - get current location(GPS)
 
 [GIF SNAP VIDEO]
 
-* Google Maps Reverse Geocoding API - Address Translation to android set language
-* [GeoFire](https://github.com/firebase/geofire-java) - write geographic data to realtime database
+* Geocoder API- Address Translation to android set language
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
 * (Modify current location)
