@@ -14,14 +14,12 @@ Shop View android guide app with Kotlin and Firebase
 
 #### [Back-end]
 
-* LocationListener(requestSingleUpdate) - get current location fast once(GPS)
+* Get current location fast once(GPS[lat, lng]) - LocationListener(requestSingleUpdate)
 
 [GIF SNAP VIDEO]
 
-* Get current location infomation(latlng) - Google Map API
-* Modify current location - Google Map API
 * Address Translation - Geocoder API
-* Sort list by distance
+* Modify current location - Google Map API
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
 * (In-app purchase)
 * (Firebase AdMob)
@@ -44,10 +42,10 @@ Shop View android guide app with Kotlin and Firebase
 
 |Feature|Code Location|
 |---|---|
-| Google Maps API      | ui/NearMeActivity.kt: 130-140 |
-| Device Model     | String |
-| Manufacturer      | String |
-| Product      | String |
+| Get current location fast once(GPS)      | ui/NearMeActivity.kt: 130-140 |
+| Address Translation     | String |
+| Modify current location      | String |
+| Sort list by distance      | String |
 | Fingerprint      | String |
 | Hardware      | String |
 | Radio Version     | String |
