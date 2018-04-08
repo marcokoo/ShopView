@@ -42,17 +42,17 @@ Shop View android guide app with Kotlin and Firebase
 
 <h4>Code Index</h4> 
 
-|Feature|functionName|Code Location
-|---|---|---|
- Google Maps API      | `getAndroidID()` | ui/NearMeActivity.kt: 130-140 |
-| Device Model     | `getModel()` | String |
-| Manufacturer      | `getManufacturer()` | String |
-| Product      | `getProduct()` | String |
-| Fingerprint      | `getFingerprint()` | String |
-| Hardware      | `getHardware()` | String |
-| Radio Version      | `getRadioVer()` | String |
-| Device      | `getDevice()` | String |
-| Board      | `getBoard()` | String |
+|Feature|Code Location|
+|---|---|
+| Google Maps API      | ui/NearMeActivity.kt: 130-140 |
+| Device Model     | String |
+| Manufacturer      | String |
+| Product      | String |
+| Fingerprint      | String |
+| Hardware      | String |
+| Radio Version     | String |
+| Device      | String |
+| Board      | String |
 
 ## Download
 [URL]
