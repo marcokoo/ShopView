@@ -12,17 +12,17 @@ Shop View android guide app with Kotlin and Firebase
 
 ## Features used in app
 
-<h4>[Back-end]</h4>
+#### [Back-end]
 
 * LocationListener(requestSingleUpdate) - get current location fast once(GPS)
 
 [GIF SNAP VIDEO]
 
-* Google Map API - set current location
-* Geocoder API- Address Translation
+* Get current location infomation(latlng) - Google Map API
+* Modify current location - Google Map API
+* Address Translation - Geocoder API
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
-* (Modify current location)
 * (In-app purchase)
 * (Firebase AdMob)
 * (Firebase Auth)
@@ -34,7 +34,7 @@ Shop View android guide app with Kotlin and Firebase
 * [Firebase UI - FirebaseRecyclerView](https://github.com/firebase/FirebaseUI-Android/blob/master/database/README.md)
 * Button click animation - scale
 * Activity transition animation - slide
-* CardView
+* CardView - product list
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
 
