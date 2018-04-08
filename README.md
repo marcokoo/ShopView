@@ -19,7 +19,7 @@ Shop View android guide app with Kotlin and Firebase
 [GIF SNAP VIDEO]
 
 * Google Map API - set current location
-* Geocoder API- Address Translation to android set language
+* Geocoder API- Address Translation
 * Sort list by distance
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
 * (Modify current location)
