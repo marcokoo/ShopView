@@ -21,7 +21,7 @@ Shop View android guide app with Kotlin and Firebase
 * Address Translation - Geocoder API
 * Modify current location - Google Map API
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
-* (In-app purchase)
+* (In-app purchase - Google Play In-app Billing API)
 * (Firebase AdMob)
 * (Firebase Auth)
 * (Firebase Analytics)
