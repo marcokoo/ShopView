@@ -35,6 +35,7 @@ Shop View android guide app with Kotlin and Firebase
 * CardView - product list
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
+* Custom Number Picker
 
 
 
