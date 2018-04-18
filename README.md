@@ -20,7 +20,10 @@ Shop View android guide app with Kotlin and Firebase
 
 * Address Translation - Geocoder API
 * Modify current location - Google Map API
+* Mark in shop location and current location - Google Map API
 * [Firebase Realtime Database](https://firebase.google.com/docs/database/) - write/read data to database
+* Calculation to distance - distanceTo()
+* Sort by distance from current location - sortWith()
 * In-app purchase - [Google Play In-app Billing API v3 Library](https://github.com/anjlab/android-inapp-billing-v3)
 * (Firebase AdMob)
 * (Firebase Auth)
@@ -36,7 +39,7 @@ Shop View android guide app with Kotlin and Firebase
 * [Anko Commons - Custom Dialog](https://github.com/Kotlin/anko/wiki/Anko-Commons-%E2%80%93-Dialogs)
 * Android Extension - inflate
 * Custom Number Picker
-* Picasso - Image Library
+* [Picasso - Image Library](https://github.com/square/picasso)
 
 
 
